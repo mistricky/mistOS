@@ -1,0 +1,2 @@
+# MistOS
+This is not OS implementation, this is just a Nix configuration of [Home Manager](https://github.com/nix-community/home-manager) that describe my computer environment. On this way, I can easily reproduce my environment on any computer, specially when I migrated to a new machine.
